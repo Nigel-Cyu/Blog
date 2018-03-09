@@ -1,0 +1,5 @@
+打开git
+hexo server 打开服务器接口
+hexo new post + 新文章标题
+hexo g 生成
+hexo d 上交
